@@ -1,0 +1,46 @@
+
+
+body{
+
+    background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/flowers.png");
+
+}
+
+.box{
+
+    border-radius:3px;
+    position:relative;
+    margin:8% auto auto auto;
+    width:450px;
+    padding:40px 50px;
+    display:table;
+    background-color:#fff;
+
+}
+.text{
+
+    text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:500;
+    font-size:1.75em;
+}
+
+.author {
+    width:450px;
+    height:auto;
+    clear:both;
+    padding-top:20px;
+    font-size:1em;
+    text-align:right;
+}
+
+.footer {
+    width: 450px;
+    text-align: center;
+    display: block;
+    margin: 15px auto 30px auto;
+    font-size: 0.8em;
+
+}
